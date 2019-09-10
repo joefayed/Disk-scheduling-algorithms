@@ -1,0 +1,14 @@
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\bin\Debug\OSLecProj2.exe.config
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\bin\Debug\OSLecProj2.exe
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\bin\Debug\OSLecProj2.pdb
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.csprojResolveAssemblyReference.cache
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.Form1.resources
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.Properties.Resources.resources
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.csproj.GenerateResource.Cache
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.exe
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.pdb
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.Scan.resources
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.Look.resources
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.Cscan.resources
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.Clook.resources
+D:\Cs\Projects\OS2\OSLecProj2\OSLecProj2\obj\Debug\OSLecProj2.SSTFGraph.resources
